@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(47,122,198);
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+.header {
+  font-weight: 800;
+  font-size: 5rem;
+  padding: 2em;
+}
+
+.content {
+  font-size: 3em;
+}
