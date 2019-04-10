@@ -1,6 +1,6 @@
 # heroku-static:  Static files demo repository for Heroku presentation
 
-Related repo: <https://github.com/lisadean/heroku-static>
+Related repo: <https://github.com/lisadean/heroku-node>
 
 ## Prepare repo for Heroku deployment
 
